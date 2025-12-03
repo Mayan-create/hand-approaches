@@ -177,10 +177,4 @@ I can upgrade your project with:
 * Multi-hand detection
 * Sound warnings
 
-Just tell me what you want next!
 
----
-
-## ✅ Author
-
-Created with guidance fro
